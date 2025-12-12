@@ -77,8 +77,8 @@ Scope - Purchase of a car
 
 Restrictions - Black,  Volvo, Max 70.000 Euro	
              
-Mandatee - Greta Garbo
-         - 190509181234
+Mandatee - Man On The Street
+         - 196509181234
          
 Mandator - Åke Exempelsson, Board member, 197191261234 (Change the name to a board member from correct country) 
 
