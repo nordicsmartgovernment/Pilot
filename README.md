@@ -20,7 +20,7 @@ Legal entity identifier - populate the field with the correct identifier when a 
 ### Response
 
 #### Business information
-The name on the first row - do like the other rows below and add to the left Legal name.
+The legal entity name on the first row - do like the other rows below and add to the left Legal name.
 
 Example: Legal name   Nadjas hälsovaror
 
