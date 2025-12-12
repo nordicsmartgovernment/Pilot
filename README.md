@@ -36,8 +36,8 @@ Activity - Add this!
 - Sweden "4778 - Other retail sale of new goods in specialised stores"
 - Finland "4511 - Sale of cars and light motor vehicles"
 - Norway "0311 - Marine fishing"
-- Denmark "6202 Computer consultancy activities"
-- Iceland "1320 Weaving of textiles"
+- Denmark "6202 - Computer consultancy activities"
+- Iceland "1320 - Weaving of textiles"
 
 Legal status - Add this!
 - For all countries "No extraordinary circumstances registered."
