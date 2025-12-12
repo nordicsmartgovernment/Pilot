@@ -20,6 +20,21 @@ Legal entity identifier - create a drop-down list where you can choose from the 
 ### Response
 
 #### Business information
+The name on the first row - do like the other rows below and add to the left Legal name.
+Example: Legal name   Nadjas hälsovaror
+
+Country - OK leave as is
+
+Registration date - OK leave as is
+
+Registered address - OK leave as is
+
+Company form - change name to "Legal form".
+
+Activity - Add this!
+- Sweden "4778 - Other retail sale of new goods in specialised stores"  
+
+Legal status -
 
 #### Signatory rights
 
