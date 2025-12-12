@@ -56,5 +56,9 @@ The presentation here doesn't need to change, this is a for human presentation, 
 Leave as is - no change.
 
 #### Mandate
+New tab called Mandate (put in between signatory rights and financial statement).
+
+
+
 
 
