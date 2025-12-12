@@ -61,18 +61,26 @@ The years could be changed to 2024 and 2025
 New tab called Mandate (put in between signatory rights and financial statement).
 
 Date of issue - 2025-12-12
+
 Delegable - No
+
 Identifier - SE123456 (Change prefix to NO, DK, IS, FI)
+
 Status - Active
+
 Geographical Scope - Sweden (change this to the correct country)
+
 Duration - Start date - 2025-12-12
          - End date - 2026-12-31
 Scope - Purchase of a car
+
 Restrictions - Black
              - Volvo
-             - Max 70.000 Euro			 
+             - Max 70.000 Euro	
+             
 Mandatee - Greta Garbo
          - 190509181234
+         
 Mandator -  
 
 
