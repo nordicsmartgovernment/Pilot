@@ -75,9 +75,7 @@ Duration - Start date - 2025-12-12
          
 Scope - Purchase of a car
 
-Restrictions - Black
-             - Volvo
-             - Max 70.000 Euro	
+Restrictions - Black,  Volvo, Max 70.000 Euro	
              
 Mandatee - Greta Garbo
          - 190509181234
