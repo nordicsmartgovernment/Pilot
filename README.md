@@ -72,6 +72,7 @@ Geographical Scope - Sweden (change this to the correct country)
 
 Duration - Start date - 2025-12-12
          - End date - 2026-12-31
+         
 Scope - Purchase of a car
 
 Restrictions - Black
