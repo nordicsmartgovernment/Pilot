@@ -60,11 +60,11 @@ The years could be changed to 2024 and 2025
 #### Mandate
 New tab called Mandate (put in between signatory rights and financial statement).
 
+Mandate identifier - SE123456 (Change prefix to NO, DK, IS, FI)
+
 Date of issue - 2025-12-12
 
 Delegable - No
-
-Identifier - SE123456 (Change prefix to NO, DK, IS, FI)
 
 Status - Active
 
