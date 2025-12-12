@@ -10,7 +10,7 @@ Country with a drop down list – OK, no change.
 
 Business ID - Change the name to ”Legal entity identifier” 
 
-Legal entity identifier - create a drop-down list where you can choose from the following options:
+Legal entity identifier - populate the field with the correct identifier when a country is picked:
 - Finland, 7006370-1
 - Sweden, 123456-1111 
 - Norway, 000123456
@@ -33,9 +33,14 @@ Registered address - OK leave as is
 Company form - change name to "Legal form".
 
 Activity - Add this!
-- Sweden "4778 - Other retail sale of new goods in specialised stores"  
+- Sweden "4778 - Other retail sale of new goods in specialised stores"
+- Finland "4511 - Sale of cars and light motor vehicles"
+- Norway "0311 - Marine fishing"
+- Denmark "6202 Computer consultancy activities"
+- Iceland "1320 Weaving of textiles"
 
-Legal status -
+Legal status - Add this!
+- For all countries "No extraordinary circumstances registered."
 
 #### Signatory rights
 
