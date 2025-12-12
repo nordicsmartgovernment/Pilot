@@ -10,12 +10,12 @@ Country with a drop down list – OK, no change.
 
 Business ID - Change the name to ”Legal entity identifier” 
 
-Legal entity identifier - populate the field with the correct identifier when a country is picked:
+Legal entity identifier - populate the field with the correct identifier when a country is picked (if this is complex we can skip this requirement):
 - Finland, 7006370-1
 - Sweden, 123456-1111 
 - Norway, 000123456
 - Denmark, 12345678
-- Iceland, 8907697199 
+- Iceland, 8907697199
 
 ### Response
 
@@ -43,8 +43,18 @@ Legal status - Add this!
 - For all countries "No extraordinary circumstances registered."
 
 #### Signatory rights
+The presentation here doesn't need to change, this is a for human presentation, it doesn't need to talk about role based representation rule and so on.
+
+- Sweden Two board members together - add 2 names "Knut Exemplesson", "Erik Exemplesson". Change "Mikael Exempel" to "Mikael Exempelsson"
+- Finland - OK
+- Norway Two board members together - add 2 names "Olav Eksempelsen", "Siri Eksempelsen". Change "Bera Eksempel" to "Bera Eksempelsen"
+- Denmark Two board members together - add 2 names "Heidi Eksempelsen", "Siri Eksempelsen". 
+- Iceland Two board members together - add 2 names "Sven Einkisdóttir", "Torulf Einkisdóttir".
+
 
 #### Financial statement
 Leave as is - no change.
 
 #### Mandate
+
+
