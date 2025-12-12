@@ -21,6 +21,7 @@ Legal entity identifier - create a drop-down list where you can choose from the 
 
 #### Business information
 The name on the first row - do like the other rows below and add to the left Legal name.
+
 Example: Legal name   Nadjas hälsovaror
 
 Country - OK leave as is
