@@ -7,7 +7,9 @@ Nordic Business Information Pilot – is this the name we want for the pilot pag
 
 ### Request
 Country with a drop down list – OK, no change.
+
 Business ID - Change the name to ”Legal entity identifier” 
+
 Legal entity identifier - create a drop-down list where you can choose from the following options:
 - Finland, 7006370-1
 - Sweden, 123456-1111 
