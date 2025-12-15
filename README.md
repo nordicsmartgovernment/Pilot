@@ -3,7 +3,7 @@
 ## Requirements
 
 ### Heading
-Nordic Business Information Pilot – is this the name we want for the pilot page?
+Nordic Business Information Pilot – OK.
 
 ### Request
 Country with a drop down list – OK, no change.
