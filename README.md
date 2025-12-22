@@ -92,9 +92,9 @@ Example:
 | **Geographical Scoper**    |   | Sweden |
 | **Duration**    | Start date  | 2025-12-12 |
 |    | End date  | 2026-12-31 |
-| **Scoper**    |   | Purchase of a car |
-| **Restrictions**    |   | Black |
-|    |   | Volvo |
+| **Scope**    |   | Purchase of a car |
+| **Restrictions**    |   | Volvo |
+|    |   | Black |
 |    |   | Max 70.000 Euro |
 | **Mandatee**    | Name  | Man On The Street |
 |    | Identifier  | 196509181234 |
