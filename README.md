@@ -82,5 +82,22 @@ Mandatee - Man On The Street
          
 Mandator - Åke Exempelsson, Board member, 197191261234 (Change the name to a board member from correct country) 
 
-
-
+Example:
+| Heading (don't show the headings)       | Subheading | Data |
+|---------------------|---------|-----------------|
+| **Mandate identifier**    |   | SE123456 |
+| **Date of issue**    |   | 2025-12-12 |
+| **Delegable**    |   | No |
+| **Status**    |   | Active |
+| **Geographical Scoper**    |   | Sweden |
+| **Duration**    | Start date  | 2025-12-12 |
+|    | End date  | 2026-12-31 |
+| **Scoper**    |   | Purchase of a car |
+| **Restrictions**    |   | Black |
+|    |   | Volvo |
+|    |   | Max 70.000 Euro |
+| **Mandatee**    | Name  | Man On The Street |
+|    | Identifier  | 196509181234 |
+| **Mandator**    | Name  | Åke Exempelsson |
+|    | Identifier  | 197191261234 |
+|    | Role  | Board member |
