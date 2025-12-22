@@ -75,7 +75,7 @@ Duration - Start date - 2025-12-12
          
 Scope - Purchase of a car
 
-Restrictions - Black,  Volvo, Max 70.000 Euro	
+Restrictions - Black,  Volvo, 70.000 Euro	
              
 Mandatee - Man On The Street
          - 196509181234
@@ -93,9 +93,9 @@ Example:
 | **Duration**    | Start date  | 2025-12-12 |
 |    | End date  | 2026-12-31 |
 | **Scope**    |   | Purchase of a car |
-| **Restrictions**    |   | Volvo |
-|    |   | Black |
-|    |   | Max 70.000 Euro |
+| **Restrictions**    | Type of car  | Volvo |
+|    |  Color | Black |
+|    |  Max amount | 70.000 Euro |
 | **Mandatee**    | Name  | Man On The Street |
 |    | Identifier  | 196509181234 |
 | **Mandator**    | Name  | Åke Exempelsson |
